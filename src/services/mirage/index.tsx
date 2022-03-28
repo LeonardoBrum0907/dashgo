@@ -35,7 +35,7 @@ export function makeServer() {
     routes() {
       this.namespace = 'api'
 
-      this.timing = 750 //2 segundos 
+      this.timing = 1000 //2 segundos 
 
       this.get('/users', function(schema, request) {
         const { page = 1, per_page = 10 } = request.queryParams;
@@ -54,6 +54,8 @@ export function makeServer() {
           { users }
         )
       });
+
+      this.get('/users/:id');
       this.post('/users');
 
       this.namespace = '';
