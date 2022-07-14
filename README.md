@@ -26,7 +26,7 @@
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/steniowagner/mindCast
+$ git clone https://github.com/LeonardoBrum0907/dashgo.git
 
 $ cd mindCast
 ```
