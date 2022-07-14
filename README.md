@@ -19,6 +19,32 @@
 
 - There's no functionality of Login/Register, only data validation.
 
- <div>
-  <img width="1100px" src="src/assets/underConstruction.png">
+# Getting Started
+
+### Installing
+
+**Cloning the Repository**
+
+```
+$ git clone https://github.com/steniowagner/mindCast
+
+$ cd mindCast
+```
+
+**Installing dependencies**
+
+```
+$ yarn
+```
+
+_or_
+
+```
+$ npm install
+```
+
+##
+
+<div align="center">
+  <img width="500px" src="src/assets/underConstruction.png">
 </div>
