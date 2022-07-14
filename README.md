@@ -45,15 +45,15 @@ $ npm install
 
 # Built With
 
-- [NextJS](https://nextjs.org/docs) - Build app using React, NextJS and JavaScript.
-- [React-Query](https://redux.js.org/) - React State Manager.
-- [React-Hook-Form](https://eslint.org/) - Form validation.
-- [Apexcharts](https://github.com/zetachang/react-native-dotenv) - Create charts.
-- [React-Icons](https://prettier.io/) - Icons 👨‍💻
-- [Axios](https://github.com/axios/axios) - HTTP Client.
-- [MirageJS](https://flow.org/) - Fake API.
-- [Faker](https://babeljs.io/) - Create random data.
-- [Chakra-UI](https://www.styled-components.com/) - Styles.
+- [NextJS](https://nextjs.org/docs) - Build app using ReactJS, NextJS and Typescript.
+- [React-Query](https://react-query-v2.tanstack.com/overview) - React State Manager.
+- [React-Hook-Form](https://react-hook-form.com/get-started) - Form validation.
+- [Apexcharts](https://apexcharts.com/docs/react-charts/) - Create charts.
+- [React-Icons](https://react-icons.github.io/react-icons/) - Icons 👨‍💻
+- [Axios](https://axios-http.com/docs/intro) - HTTP Client.
+- [MirageJS](https://miragejs.com/docs/getting-started/introduction/) - Fake API.
+- [FakerJS](https://fakerjs.dev/guide/) - Create random data.
+- [Chakra-UI](https://chakra-ui.com/getting-started/nextjs-guide) - Styles.
 
 ##
 
