@@ -45,18 +45,15 @@ $ npm install
 
 # Built With
 
-- [React-Native](https://facebook.github.io/react-native/) - Build the native app using JavaScript and React
-- [React-Navigation](https://reactnavigation.org/docs/en/getting-started.html) - Router
-- [Redux](https://redux.js.org/) - React State Manager
-- [Redux-Saga](https://redux-saga.js.org/) - Side-Effect middleware for Redux
-- [Axios](https://github.com/axios/axios) - HTTP Client
-- [ESlint](https://eslint.org/) - Linter
-- [React-Native-Dotenv](https://github.com/zetachang/react-native-dotenv) - Configs from .env file
-- [Flow](https://flow.org/) - Static Type Checker
-- [Prettier](https://prettier.io/) - Code Formatter
-- [Babel](https://babeljs.io/) - JavaScript Compiler
-- [Reactotron](https://infinite.red/reactotron) - Inspector
-- [Styled-Components](https://www.styled-components.com/) - Styles
+- [NextJS](https://nextjs.org/docs) - Build app using React, NextJS and JavaScript.
+- [React-Query](https://redux.js.org/) - React State Manager.
+- [React-Hook-Form](https://eslint.org/) - Form validation.
+- [Apexcharts](https://github.com/zetachang/react-native-dotenv) - Create charts.
+- [React-Icons](https://prettier.io/) - Icons 👨‍💻
+- [Axios](https://github.com/axios/axios) - HTTP Client.
+- [MirageJS](https://flow.org/) - Fake API.
+- [Faker](https://babeljs.io/) - Create random data.
+- [Chakra-UI](https://www.styled-components.com/) - Styles.
 
 ##
 
