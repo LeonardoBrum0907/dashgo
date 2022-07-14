@@ -1,7 +1,5 @@
-# Dashgo
-
-<font color="red">This text is red!</font>
+<h1 textAlign="center">Dashgo.</h1>
 
 <div>
-  <img width="300px" src="src/assets/DashgoReadme.png">
+  <img width="1100px" src="src/assets/DashgoReadme.png">
 </div
